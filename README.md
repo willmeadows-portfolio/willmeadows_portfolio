@@ -18,7 +18,7 @@ This GitHub page is where I’m sharing some of the projects I’ve worked on, m
 
 ### ⚽ Predicting Premier League Results  
 As part of my final-year university project, I built a model in R to predict the outcomes of Premier League football matches using five seasons of match data. It involved a lot of data cleaning, regression modelling, and interpretation. I also created dashboards to show win probabilities and how performance changed over time.  
-➡️ [https://github.com/yourusername/Premier-League-Predictor]
+➡️ [https://github.com/willmeadows-portfolio/Premier-League-Predictor]
 
 
 ---
