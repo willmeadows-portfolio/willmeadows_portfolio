@@ -28,7 +28,6 @@ As part of my final-year university project, I built a model in R to predict the
 - Python for Data Science (via DataCamp)  
 - Power BI basics (via LinkedIn Learning)  
 - Improving my SQL and Tableau skills  
-- Learning how to share work better online (like this!)
 
 ---
 
