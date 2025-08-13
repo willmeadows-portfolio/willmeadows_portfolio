@@ -36,6 +36,6 @@ As part of my final-year university project, I built a model in R to predict the
 If you’re interested in chatting, collaborating, or just having a look at more of my work, feel free to reach out:
 
 📧 [william.james.meadows@gmail.com](mailto:william.james.meadows@gmail.com)  
-🔗 [LinkedIn](#) *(Add your link here)*  
+
 
 
